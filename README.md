@@ -16,6 +16,6 @@ This is a simple console-based Student Grade Management System built using Java.
 
 ## How to Run
 1. Compile the program:
-   javac StudentGradeTracker1.java
+   javac StudentGradeTracker.java
 2. Run:
-   java StudentGradeTracker1
+   java StudentGradeTracker
